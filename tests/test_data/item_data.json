@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 1200.00,
+    "description": "A high performance laptop suitable for gaming and professional work"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 800.00,
+    "description": "A latest model smartphone with high resolution camera and fast processor"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 150.00,
+    "description": "Noise cancelling headphones with high quality sound reproduction"
+  }
+]
